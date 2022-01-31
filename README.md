@@ -1,1 +1,2 @@
-# documentation
+# install scoop windows 10
+https://itrendbuzz.com/install-scoop-command-line-manager-on-windows-10/
